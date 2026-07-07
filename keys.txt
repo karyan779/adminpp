@@ -1,9 +1,7 @@
 # =========================================
 # GENERATED ACTIVATION KEYS CONFIGURATION
-# Last Synchronized: 2026-07-06 20:41:48
+# Last Synchronized: 2026-07-07 11:08:16
 # Format: DEVICE_ID=ACTIVATION_KEY=EXP_DAYS
 # =========================================
 
-DEV-10193477=AK-612B-70AC-AAAA=365
-DEV-13B91EB7=AK-5EBE-1166-AAAA=30
-DEV-AF42C693=AK-7A4F-CA46-AAAA=7
+K-13B91EB7=AK-78AC-50EA-AAAA=7
