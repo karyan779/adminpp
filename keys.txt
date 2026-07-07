@@ -1,1 +1,1 @@
-
+# Format: device_id | user_key | duration
