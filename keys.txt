@@ -1,1 +1,6 @@
-# Format: device_id | user_key | duration
+# =========================================
+# GENERATED ACTIVATION KEYS CONFIGURATION
+# Last Synchronized: 2026-07-06 20:26:39
+# Format: DEVICE_ID=ACTIVATION_KEY
+# =========================================
+
